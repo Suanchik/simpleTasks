@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/simpleTasks/static/css/main.951eb6e7.chunk.css",
+    "main.js": "/simpleTasks/static/js/main.d0bb354b.chunk.js",
+    "main.js.map": "/simpleTasks/static/js/main.d0bb354b.chunk.js.map",
+    "runtime-main.js": "/simpleTasks/static/js/runtime-main.3ab52386.js",
+    "runtime-main.js.map": "/simpleTasks/static/js/runtime-main.3ab52386.js.map",
+    "static/js/2.cd9f3d20.chunk.js": "/simpleTasks/static/js/2.cd9f3d20.chunk.js",
+    "static/js/2.cd9f3d20.chunk.js.map": "/simpleTasks/static/js/2.cd9f3d20.chunk.js.map",
+    "static/js/3.8bb1ad6b.chunk.js": "/simpleTasks/static/js/3.8bb1ad6b.chunk.js",
+    "static/js/3.8bb1ad6b.chunk.js.map": "/simpleTasks/static/js/3.8bb1ad6b.chunk.js.map",
+    "index.html": "/simpleTasks/index.html",
+    "static/css/main.951eb6e7.chunk.css.map": "/simpleTasks/static/css/main.951eb6e7.chunk.css.map",
+    "static/js/2.cd9f3d20.chunk.js.LICENSE.txt": "/simpleTasks/static/js/2.cd9f3d20.chunk.js.LICENSE.txt",
+    "static/media/add.23ef596b.svg": "/simpleTasks/static/media/add.23ef596b.svg",
+    "static/media/done.0ca4b6f1.png": "/simpleTasks/static/media/done.0ca4b6f1.png",
+    "static/media/edit.5be2348c.svg": "/simpleTasks/static/media/edit.5be2348c.svg",
+    "static/media/friends.15b8ab6e.jpg": "/simpleTasks/static/media/friends.15b8ab6e.jpg",
+    "static/media/future.1265f3ac.jpg": "/simpleTasks/static/media/future.1265f3ac.jpg",
+    "static/media/future2.020513f2.jpg": "/simpleTasks/static/media/future2.020513f2.jpg",
+    "static/media/gothem.65c9dd38.jpg": "/simpleTasks/static/media/gothem.65c9dd38.jpg",
+    "static/media/marvel.afb4dd9b.jpg": "/simpleTasks/static/media/marvel.afb4dd9b.jpg",
+    "static/media/spiderman.ddff83b3.jpg": "/simpleTasks/static/media/spiderman.ddff83b3.jpg",
+    "static/media/tbbt.30e62cb9.jpg": "/simpleTasks/static/media/tbbt.30e62cb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ab52386.js",
+    "static/js/2.cd9f3d20.chunk.js",
+    "static/css/main.951eb6e7.chunk.css",
+    "static/js/main.d0bb354b.chunk.js"
+  ]
+}
